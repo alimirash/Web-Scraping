@@ -30,7 +30,7 @@ def get_data_for_day(date):
 
     while True:
         try:
-            WebDriverWait(driver, 1.5).until(
+            WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, '//*[@id="cal-res-table"]/div[1]/table'))
             )
             
@@ -84,7 +84,7 @@ def get_data_for_day(date):
     return data_list
 
 # Set the start date and end date for the range
-start_date = datetime.strptime('2010-10-23', '%Y-%m-%d')
+start_date = datetime.strptime('2022-06-23', '%Y-%m-%d')
 end_date = datetime.now()
 
 # Ensure the directory for saving CSV files exists
