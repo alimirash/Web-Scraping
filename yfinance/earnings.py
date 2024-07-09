@@ -50,12 +50,13 @@ def get_data_for_day(date):
                     if not cells:
                         continue
                     data_list.append({
-                        'Company': cells[0].find('a').text if cells[0].find('a') else '',
-                        'EPS': cells[1].text,
-                        'Time': cells[2].text,
-                        'EPS Estimate': cells[3].text,
-                        'Reported EPS': cells[4].text,
-                        'Surprise': cells[5].text
+                        'Symbol': cells[0].find('a').text if cells[0].find('a') else '',
+                        'Company': cells[1].text,
+                        'Event Name': cells[2].text,
+                        'Earnings Call Time': cells[3].text,
+                        'EPS Estimate': cells[4].text,
+                        'Reported EPS': cells[5].text,
+                        'Surprise(%)': cells[6].text
                     })
             
             # Check for the "Next" button and click it
@@ -84,7 +85,7 @@ def get_data_for_day(date):
     return data_list
 
 # Set the start date and end date for the range
-start_date = datetime.strptime('2022-06-23', '%Y-%m-%d')
+start_date = datetime.strptime('2023-01-26', '%Y-%m-%d')
 end_date = datetime.now()
 
 # Ensure the directory for saving CSV files exists
