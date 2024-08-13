@@ -1,109 +1,100 @@
-,
-Linde,LIN
-Freeport-McMoRan,FCX
-Sherwin-Williams,SHW
-Air Products And Chemicals,APD
-Ecolab,ECL
-Newmont,NEM
-Nucor,NUE
-Dow,DOW
-Corteva,CTVA
-Meta Platforms,META
-Alphabet,GOOG
-Alphabet,GOOGL
-T-Mobile US,TMUS
-Electronic Arts,EA
-Verizon,VZ
-Comcast,CMCSA
-Charter Communications,CHTR
-Exxon,XOM
-Chevron,CVX
-ConocoPhillips,COP
-EOG Resources,EOG
-Schlumberger,SLB
-Marathon Petroleum,MPC
-Phillips 66,PSX
-Valero Energy,VLO
-Williams,WMB
-ONEOK,OKE
-Berkshire Hathaway,BRK.A
-Berkshire Hathaway,BRK.B
-JPMorgan Chase,JPM
-Visa,V
-Mastercard,MA
-Bank Of America,BAC
-Wells Fargo,WFC
-Goldman Sachs,GS
-S&P Global,SPGI
-American Express,AXP
-Progressive,PGR
-GE Aerospace,GE
-Caterpillar,CAT
-RTX,RTX
-Union Pacific,UNP
-Honeywell,HON
-Eaton,ETN
-Uber Technologies,UBER
-Boeing,BA
-Lockheed Martin,LMT
-ADP,ADP
-Microsoft,MSFT
-Apple,AAPL
-NVIDIA,NVDA
-Broadcom,AVGO
-AMD,AMD
-QUALCOMM,QCOM
-Salesforce,CRM
-Adobe,ADBE
-Cisco,CSCO
-Oracle,ORCL
-Procter & Gamble,PG
-Costco,COST
-Walmart,WMT
-CocaCola,KO
-Philip Morris,PM
-PepsiCo,PEP
-Mondelez,MDLZ
-Altria,MO
-Colgate-Palmolive,CL
-Target,TGT
-Prologis,PLD
-American Tower,AMT
-Equinix,EQIX
-Welltower,WELL
-Simon Property,SPG
-Digital Realty Trust,DLR
-Crown Castle,CCI
-Realty Income,O
-Public Storage,PSA
-CoStar,CSGP
-NextEra Energy,NEE
-Southern,SO
-Duke Energy,DUK
-Constellation Energy,CEG
-Sempra Energy,SRE
-American Electric Power,AEP
-Dominion Energy,D
-Pacific Gas & Electric,PCG
-Public Service Enterprise Group,PEG
-Exelon,EXC
-Eli Lilly,LLY
-UnitedHealth Group,UNH
+Alcoa Corporation,AA
+Walmart Inc.,WMT
+Costco Wholesale Corporation,COST
+The Coca-Cola Company,KO
+Colgate-Palmolive Company,CL
+Target Corporation,TGT
+Kimberly-Clark Corporation,KMB
+The Kroger Co.,KR
+The Estée Lauder Companies Inc.,EL
+Berkshire Hathaway Inc.,BRK-B
+JPMorgan Chase & Co.,JPM
+Visa Inc.,V
+Mastercard Incorporated,MA
+Wells Fargo & Company,WFC
+"The Goldman Sachs Group, Inc.",GS
+Morgan Stanley,MS
+American Express Company,AXP
+Citigroup Inc.,C
+"PayPal Holdings, Inc.",PYPL
+"Coinbase Global, Inc.",COIN
+"American International Group, Inc.",AIG
+Upstart Holdings,UPST
+"NextEra Energy, Inc.",NEE
+Exxon Mobil Corporation,XOM
+Chevron Corporation,CVX
+Halliburton Company,HAL
+Marathon Oil Corporation,MRO
+"Helmerich & Payne, Inc.",HP
+Apple Inc.,AAPL
+Microsoft Corporation,MSFT
+NVIDIA Corporation,NVDA
+Broadcom Inc.,AVGO
+"Advanced Micro Devices, Inc.",AMD
+"Salesforce, Inc.",CRM
+Adobe Inc.,ADBE
+QUALCOMM Incorporated,QCOM
+"Cisco Systems, Inc.",CSCO
+Texas Instruments Incorporated,TXN
+Intel Corporation,INTC
+"Micron Technology, Inc.",MU
+Shopify Inc.,SHOP
+"CrowdStrike Holdings, Inc.",CRWD
+"Block, Inc.",SQ
+"Cloudflare, Inc.",NET
+"Zoom Video Communications, Inc.",ZM
+"Enphase Energy, Inc.",ENPH
+Affirm Holdings,AFRM
+Dropbox,DBX
+Sunrun,RUN
+"Amazon.com, Inc.",AMZN
+"Tesla, Inc.",TSLA
+"The Home Depot, Inc.",HD
+McDonald's Corporation,MCD
+Booking Holdings Inc.,BKNG
+"Lowe's Companies, Inc.",LOW
+"NIKE, Inc.",NKE
+"Airbnb, Inc.",ABNB
+Starbucks Corporation,SBUX
+"Chipotle Mexican Grill, Inc.",CMG
+"Marriott International, Inc.",MAR
+Ford Motor Company,F
+General Motors Company,GM
+Lululemon Athletica Inc.,LULU
+eBay Inc.,EBAY
+Carnival Corporation & plc,CCL
+"Expedia Group, Inc.",EXPE
+Alibaba Group Holding Ltd,BABA
+"NIO, Inc",NIO
+PDD Holdings,PDD
+Peloton Interactive,PTON
+QuantumScape ,QS
+Wayfair,W
+"Etsy, Inc.",ETSY
 Johnson & Johnson,JNJ
-Merck,MRK
-AbbVie,ABBV
-Thermo Fisher Scientific,TMO
-Abbott Laboratories,ABT
-Danaher,DHR
-Amgen,AMGN
-Pfizer,PFE
-Amazon,AMZN
-Tesla,TSLA
-Home Depot,HD
-McDonald's,MCD
-Booking Holdings,BKNG
-Lowe's,LOW
-TJX,TJX
-NIKE,NKE
-Starbucks,SBUX
-Chipotle Mexican Grill,CMG
+Amgen Inc.,AMGN
+Pfizer Inc.,PFE
+"Moderna, Inc.",MRNA
+Alphabet Inc.,GOOG
+"Meta Platforms, Inc.",META
+"Netflix, Inc.",NFLX
+"T-Mobile US, Inc.",TMUS
+The Walt Disney Company,DIS
+Verizon Communications Inc.,VZ
+AT&T Inc.,T
+"Pinterest, Inc.",PINS
+"Zillow Group, Inc.",ZG
+"Roku, Inc.",ROKU
+"AMC Entertainment Holdings, Inc.",AMC
+Fiverr International Ltd.,FVRR
+Baidu,BIDU
+fuboTV,FUBO
+Snap Inc,SNAP
+GE Aerospace,GE
+Caterpillar Inc.,CAT
+The Boeing Company,BA
+FedEx Corporation,FDX
+3M Company,MMM
+"United Airlines Holdings, Inc.",UAL
+American Airlines Group,AAL
+Plug Power,PLUG
