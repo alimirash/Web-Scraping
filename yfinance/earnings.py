@@ -27,7 +27,7 @@ def get_data_for_day(date):
     driver.maximize_window()
     
     data_list = []
-
+    
     while True:
         try:
             WebDriverWait(driver, 10).until(
@@ -85,7 +85,7 @@ def get_data_for_day(date):
     return data_list
 
 # Set the start date and end date for the range
-start_date = datetime.strptime('2023-01-26', '%Y-%m-%d')
+start_date = datetime.strptime('2012-12-04', '%Y-%m-%d')
 end_date = datetime.now()
 
 # Ensure the directory for saving CSV files exists

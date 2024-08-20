@@ -29,7 +29,7 @@ os.makedirs(output_dir, exist_ok=True)
 # Function to scrape data from a single URL and save to a CSV file
 def scrape_data(url, filename):
     driver.get(url)
-    time.sleep(7)  # Wait for the page to load
+    time.sleep(7) 
 
     # Initialize ActionChains
     actions = ActionChains(driver)
